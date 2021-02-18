@@ -1,4 +1,4 @@
-# PrincipiosDeEstad-stica2021
+# Principios De estadistica 2021
 
 
 
