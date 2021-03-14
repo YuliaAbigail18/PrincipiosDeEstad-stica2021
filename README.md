@@ -23,3 +23,7 @@
 #Semana 5
 + 03.03.2021: Laboratorio 3
 + 04.03.2021: Tarea 2
+
+#semana 6
+10.03.2021: Resumen gráfico de un conjunoto de datos 
+11.03.2021: Histogramas, barplot y pie (cuadro1.cvs)
