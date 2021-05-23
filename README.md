@@ -25,33 +25,33 @@
 + 04.03.2021: Tarea 2
 
 #semana 6
-10.03.2021: Resumen gráfico de un conjunoto de datos 
-11.03.2021: Histogramas, barplot y pie (cuadro1.cvs)
++ 10.03.2021: Resumen gráfico de un conjunoto de datos 
++ 11.03.2021: Histogramas, barplot y pie (cuadro1.cvs)
 
 #Semana 7
-17.03.2021: correlación entre dos variables
-18.03.2021: correlación ejercicios
++ 17.03.2021: correlación entre dos variables
++ 18.03.2021: correlación ejercicios
 
 #semana 8
-24.03.21: continuación de correlación 
-24.03.21
++ 24.03.21: continuación de correlación 
++ 24.03.21
 
 #semana 9
-14.04.2021: Análisis de regresión
-15.04.2021: Asincrona
++ 14.04.2021: Análisis de regresión
++ 15.04.2021: Asincrona
 
 #Semana 10
-21.04.2021: Análisis de regresión
-22.04.2021: Ejercicios de datos canopy
++ 21.04.2021: Análisis de regresión
++ 22.04.2021: Ejercicios de datos canopy
 
 #semana 11
-28.04.2021: Normalidad y homogeneidad de varianzas
-29.04.2021: Asincrona 
++ 28.04.2021: Normalidad y homogeneidad de varianzas
++ 29.04.2021: Asincrona 
 
 #semana 12
-12.05.2021: Prueba de T de una muestra 
-13.05.2021: Prueba de T dos muestras independientes 
++ 12.05.2021: Prueba de T de una muestra 
++ 13.05.2021: Prueba de T dos muestras independientes 
 
 #semana 13
-19.05.2021: Pruebas de T dependientes
-20.05.2021: Fin de curso
++ 19.05.2021: Pruebas de T dependientes
++ 20.05.2021: Fin de curso
